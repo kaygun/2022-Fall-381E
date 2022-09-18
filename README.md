@@ -3,15 +3,9 @@
 * Atabey Kaygun [(kaygun\@itu.edu.tr)](mailto:kaygun@itu.edu.tr)
 * Lectures: Fridays 14:00-17:00 
 
-# Course Description
+## Course Description
 
-Data science is a broad interdisciplinary field. It lies in the intersection of mathematics,
-statistics, and computer science and use their methods and tools to extract information and
-insight from data. This course is an introductory level data science course. We are going to
-introduce different data types (structured and unstructured) from different fields, and
-focus on importing, cleaning, reshaping, exploring, and visualizing data.  The course aims
-to provide the students with basic knowledge on data science computational tools to
-interpret data from different disciplines.
+Data science is a broad interdisciplinary field. It lies in the intersection of mathematics, statistics, and computer science and use their methods and tools to extract information and insight from data. This course is an introductory level data science course. We are going to introduce different data types (structured and unstructured) from different fields, and focus on importing, cleaning, reshaping, exploring, and visualizing data.  The course aims to provide the students with basic knowledge on data science computational tools to interpret data from different disciplines.
 
 ## Course Textbooks
 
@@ -86,7 +80,7 @@ If you miss any 2 of the homeworks, or if your total from homeworks is less than
 
 | Assessment                 | Deadline |
 |----------------------------|----------|
-| **Github link**            | Oct 7    |
+| **Github link**            | Sep 30   |
 | Homework 1                 | Oct 14   |
 | Homework 2                 | Nov 4    |
 | **Final Project Proposal** | Nov 18   |
@@ -117,36 +111,32 @@ At the end of the semester when you submit your final project, I also want a sho
 
 # Weekly Course Plan
 
-The following is a tentative schedule of topics I am going to cover. I may go faster or
-slower depending on the week. I may even add new subjects, or even drop subjects depending
-on requests and participation.  The quizzes will be given during the first 30 minutes of the
-allotted day, and I will do the lecture afterwards.
+The following is a tentative schedule of topics I am going to cover. I may go faster or slower depending on the week. I may even add new subjects, or even drop subjects depending on requests and participation.  The quizzes will be given during the first 30 minutes of the allotted day, and I will do the lecture afterwards.
 
 | **Week** | **Subject**                                                                                  |
 |----------|----------------------------------------------------------------------------------------------|
-| Feb 21   | Data Science, Machine Learning, Statistics, Computer Science: Similarities and Differences.  |
-| Feb 28   | **Deadline for GitHub link submission.**                                                     |
+| Sep 23   | Data Science, Machine Learning, Statistics, Computer Science: Similarities and Differences.  |
+| Sep 30   | **Deadline for GitHub link submission.**                                                     |
 |          | Crash Course in Python and its Library Ecosystem.                                            |
-| Mar 7    | Structured Data: CSV, JSON, XML and YAML                                                     |
-|          | HW1                                                                                          |
-| Mar 14   | **Deadline for HW1.**                                                                        |
+| Oct 7    | Structured Data: CSV, JSON, XML and YAML                                                     |
+|          | Post HW1                                                                                     |
+| Oct 14   | **Deadline for HW1.**                                                                        |
 |          | Open data sources, data APIs, and data scraping.                                             |
-| Mar 21   | Basic visualizations: simple plots, scatter plots, histograms, heatmaps, bar and pie charts. |
-| Mar 28   | Unstructured data I: Image data.                                                             |
-|          | HW2                                                                                          |
-| Apr 4    | *Deadline for HW2.**                                                                         |
+| Oct 21   | Basic visualizations: simple plots, scatter plots, histograms, heatmaps, bar and pie charts. |
+| Oct 28   | Unstructured data I: Image data.                                                             |
+|          | Post HW2                                                                                     |
+| Nov 4    | **Deadline for HW2.**                                                                        |
 |          | Working with and visualizing high dimensional data: PCA and LDA.                             |
-| Apr 11   | **Final Project Proposals Due.**                                                             |
+| Nov 11   | **Final Project Proposals Due.**                                                             |
 |          | Unstructured data II: Text data.                                                             |
-| Apr 18   | More on text data. NLP library eco-system.                                                   |
-|          | HW3                                                                                          |
-| Apr 25   | **Deadline for HW3.**                                                                        |
+| Nov 18   | More on text data. NLP library eco-system.                                                   |
+|          | Post HW3                                                                                     |
+| Nov 25   | **Deadline for HW3.**                                                                        |
 |          | Geospatial data and drawing maps.                                                            |
-| May 2    | More on geospatial data and maps.                                                            |
-| May 9    | Graphs and networks. Working with network data.                                              |
-| May 16   | More on working with network data and visualizations.                                        |
-|          | HW4                                                                                          |
-| May 23   | **Deadline for HW4.**                                                                        |
+| Dec 2    | Graphs and networks. Working with network data.                                              |
+| Dec 9    | More on working with network data and visualizations.                                        |
+|          | Post HW4                                                                                     |
+| Dec 16   | **Deadline for HW4.**                                                                        |
 |          | Working with audio data.                                                                     |
-| May 30   | **Final Project Due.**                                                                       |
-|          | More on working with audio data.                                                             |
+| Dec 23   | Special topics                                                                               |
+| Dec 30   | **Final Project Due.**                                                                       |
