@@ -1,10 +1,9 @@
-# Introduction to Data Science 
-## (Fall 2022, MAT381E)
+# Introduction to Data Science (Fall 2022, MAT381E)
 
 * Atabey Kaygun [(kaygun\@itu.edu.tr)](mailto:kaygun@itu.edu.tr)
 * Lectures: Fridays 14:00-17:00 
 
-## Course Description
+# Course Description
 
 Data science is a broad interdisciplinary field. It lies in the intersection of mathematics,
 statistics, and computer science and use their methods and tools to extract information and
@@ -81,25 +80,27 @@ can't install these systems on your machine you may try to use an online service
 
 # Assessment
 
-Your performance is going to be judged via 4 homework assignments and one final project.  Each homework is 15 points, and the final project is worth 40 points.  Your total assessment for the course will be evaluated as follows:
+Your performance is going to be judged via 4 homework assignments posted on the [course github page](https://github.com/kaygun/2022-Fall-381E) and one final project that you need to write from scratch.  Each homework is 15 points, and the final project is worth 40 points.  Your total assessment for the course will be evaluated as follows:
 
 If you miss any 2 of the homeworks, or if your total from homeworks is less than 35% you'll get a VF. If your final is less than 25%, or your total is less than 35% you'll receive an F. Note that the conditions for receiving a VF are both necessary and sufficient, while the conditions for receiving an F are only sufficient. This means you may still get an F with a higher score than 35% depending on the distribution of the scores.
 
 | Assessment                 | Deadline |
 |----------------------------|----------|
-| **Github link**            | |
-| Homework 1                 | |
-| Homework 2                 | |
-| **Final Project Proposal** | |
-| Homework 3                 | |
-| Homework 4                 | |
-| **Final Project**          | |
+| **Github link**            | Oct 7    |
+| Homework 1                 | Oct 14   |
+| Homework 2                 | Nov 4    |
+| **Final Project Proposal** | Nov 18   |
+| Homework 3                 | Nov 25   |
+| Homework 4                 | Dec 16   |
+| **Final Project**          | Dec 30   |
 
 There is no make-up for the homeworks. If you miss any of the homework deadline because of an emergency, do contact me to make an arrangement as soon as you can.
 
 ## Homeworks
 
-For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories at 11:59PM of each deadline date. You must send the link for the repository to my e-mail address with the subject ``MAT381E GitHub Link'' by Feb 28. The message should contain your full name, student number and the github link.  If you do not follow these instructions, I will deduct upto 15 points from your final grade. You need to create a jupyter notebook for each homework assignment that you get from the course github page.
+For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories at 11:59PM of each deadline date. You must send the link for the repository to my e-mail address with the subject ``MAT381E GitHub Link'' by Feb 28. The message should contain your full name, student number and the github link.  If you do not follow these instructions, I will deduct upto 15 points from your final grade. 
+
+I am going to post the homework assignments on the [course github page](https://github.com/kaygun/2022-Fall-381E), you'll need to fill in the answers and post it on your own github account by the deadline.
 
 ## Final Project
 
@@ -109,9 +110,9 @@ The final project is worth 40 points and will be evaluated on your final project
 * The list of team members (names and student numbers)
 * Project summary 
 
-At the end of the semester when you submit your final project, I will also want a short
-description of who did what for the final project as a supplement. Each team/student will
-present their final project to the whole class.
+The project summary must contain the description of the data set you are going to work with, what you want to do with it, and a clear plan how you are going to accomplish your goals.  I will grade your proposals (15 points) and might make adjustments on your data set, your hypothesis and your approach. 
+
+At the end of the semester when you submit your final project, I also want a short description of who did what for the final project as a supplement. 
 
 
 # Weekly Course Plan
