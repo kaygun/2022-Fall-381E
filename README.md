@@ -1,18 +1,10 @@
----
-title: Introduction to Data Science 
-subtitle: (Fall 2022, MAT381E)
-author: Atabey Kaygun [(kaygun\@itu.edu.tr)](mailto:kaygun@itu.edu.tr)
-date: Lectures Fridays 14:00-17:00 
-geometry:
-  - margin=20mm
-hyperrefoptions:
-  - linktoc=all
-  - pdfwindowui
-header-includes:
-  - \hypersetup{colorlinks=true}
-...
+# Introduction to Data Science 
+## (Fall 2022, MAT381E)
 
-# Course Description
+* Atabey Kaygun [(kaygun\@itu.edu.tr)](mailto:kaygun@itu.edu.tr)
+* Lectures: Fridays 14:00-17:00 
+
+## Course Description
 
 Data science is a broad interdisciplinary field. It lies in the intersection of mathematics,
 statistics, and computer science and use their methods and tools to extract information and
