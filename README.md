@@ -83,12 +83,13 @@ There is no make-up for the homeworks. If you miss any of the homework deadline 
 
 ## Homeworks
 
-For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories at 11:59PM of each deadline date. You must open a private github repository and share it with atabey_kaygun@hotmail.com. If you do not follow these instructions, I will deduct upto 15 points from your final grade. 
+For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories at 11:59PM of each deadline date. You must open a private github repository and share it with atabey_kaygun@hotmail.com by September 30th. If you do not follow these instructions, I will deduct upto 15 points from your final grade. 
+
 I am going to post the homework assignments on the [course github page](https://github.com/kaygun/2022-Fall-381E), you'll need to fill in the answers and post it on your own github account by the deadline.
 
 ## Final Project
 
-The final project is worth 40 points and will be evaluated on your final project notebook. You may work with a team, but no larger than 3 students. You must open a separate repository with your team and submit the link via e-mail with the subject ``MATH381E Final Project Link'' by April 11th. In that proposal git repository, put a jupyter notebook with
+The final project is worth 40 points and will be evaluated on your final project notebook. You may work with a team, but no larger than 3 students. You must open a separate repository with your team and submit the link via e-mail with the subject ``MATH381E Final Project Link'' by November 11th. In that proposal git repository, put a jupyter notebook with
 
 * The title of the project
 * The list of team members (names and student numbers)
