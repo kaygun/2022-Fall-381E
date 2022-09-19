@@ -101,8 +101,7 @@ At the end of the semester when you submit your final project, I also want a sho
 
 ## Cheating
 
-Passing someone else's code or text as your own is cheating, or worse yet, theft. Copying code with variable names changed is another lazy form of cheating. Depending on severity of the situation, I may even repo
-rt you to the university. In short, don't do it.
+Passing someone else's code or text as your own is cheating, or worse yet, theft. Copying code with variable names changed is another lazy form of cheating. Depending on severity of the situation, I may even report you to the university. In short, don't do it.
 
 # Weekly Course Plan
 
