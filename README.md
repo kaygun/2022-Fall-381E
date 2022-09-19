@@ -40,23 +40,16 @@ Algorithms* (2nd Ed.)  Cambridge University Press, March 2020 ISBN:
 
 ## Course Management
 
-I will make all of the course related announcement on İTÜ's course management system
-[NINOVA](https://ninova.itu.edu.tr). I will post the grades on NINOVA as well. So, do check it regularly.
+I will make all of the course related announcement on İTÜ's course management system [NINOVA](https://ninova.itu.edu.tr). I will post the grades on NINOVA as well. So, do check it regularly.
 
 
 # E-Mail Policy
 
-I receive approximately 50 e-mails per day. So, if you need to contact me, use the subject
-``MAT381E'' in your e-mails. Spend some time structuring your e-mail with grammatically
-correct sentences in Turkish or in English. Be polite, direct, and concise. State what you
-need in the first two sentences.  Sign your e-mails with your name and student number. If I
-can't figure out who you are and what you need within 30 seconds of opening your message, I
-will delete your e-mail with no response. You are hereby warned.
+I receive approximately 50 e-mails per day. So, if you need to contact me, use the subject ``MAT381E'' in your e-mails. Spend some time structuring your e-mail with grammatically correct sentences in Turkish or in English. Be polite, direct, and concise. State what you need in the first two sentences.  Sign your e-mails with your name and student number. If I can't figure out who you are and what you need within 30 seconds of opening your message, I will delete your e-mail with no response. You are hereby warned.
 
 # Technical Requirements
 
-The course is an applied data analysis class.  This means the course requires a degree of
-proficiency of computational tools from which you are going to be responsible.
+The course is an applied data analysis class.  This means the course requires a degree of proficiency of computational tools from which you are going to be responsible.
 
 * [git](https://git-scm.com/) and [GitHub](https://github.com/)
 * [Python](https://www.python.org) programming language (version 3.10 or higher)
@@ -64,9 +57,7 @@ proficiency of computational tools from which you are going to be responsible.
 * [Jupyter](https://jupyter.org/) notebook system
 * [Markdown](https://en.wikipedia.org/wiki/Markdown) markup language
 
-Installing and maintaining these systems on your machine is your responsibility. I can't
-help you if something doesn't work. You will need to figure it out on your own.  If you
-can't install these systems on your machine you may try to use an online service:
+Installing and maintaining these systems on your machine is your responsibility. I can't help you if something doesn't work. You will need to figure it out on your own.  If you can't install these systems on your machine you may try to use an online service:
 
 * [CoCalc](https://cocalc.com/) 
 * [Google Colab](https://colab.research.google.com/)
@@ -92,8 +83,7 @@ There is no make-up for the homeworks. If you miss any of the homework deadline 
 
 ## Homeworks
 
-For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories at 11:59PM of each deadline date. You must send the link for the repository to my e-mail address with the subject ``MAT381E GitHub Link'' by Feb 28. The message should contain your full name, student number and the github link.  If you do not follow these instructions, I will deduct upto 15 points from your final grade. 
-
+For the homeworks, you are going to need to open a [GitHub](https://github.com) account and create a repository for this class.  I am going to pull your howeworks and final project from your GitHub repositories at 11:59PM of each deadline date. You must open a private github repository and share it with atabey_kaygun@hotmail.com. If you do not follow these instructions, I will deduct upto 15 points from your final grade. 
 I am going to post the homework assignments on the [course github page](https://github.com/kaygun/2022-Fall-381E), you'll need to fill in the answers and post it on your own github account by the deadline.
 
 ## Final Project
@@ -111,7 +101,7 @@ At the end of the semester when you submit your final project, I also want a sho
 
 # Weekly Course Plan
 
-The following is a tentative schedule of topics I am going to cover. I may go faster or slower depending on the week. I may even add new subjects, or even drop subjects depending on requests and participation.  The quizzes will be given during the first 30 minutes of the allotted day, and I will do the lecture afterwards.
+The following is a tentative schedule of topics I am going to cover. I may go faster or slower depending on the week. I may even add new subjects, or even drop subjects depending on requests and participation. 
 
 | **Week** | **Subject**                                                                                  |
 |----------|----------------------------------------------------------------------------------------------|
