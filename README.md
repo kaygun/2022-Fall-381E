@@ -121,16 +121,16 @@ The following is a tentative schedule of topics I am going to cover. I may go fa
 |          | Post HW2                                                                                     |
 | Nov 4    | **Deadline for HW2.**                                                                        |
 |          | Working with and visualizing high dimensional data: PCA and LDA.                             |
-| Nov 11   | **Final Project Proposals Due.**                                                             |
-|          | Unstructured data II: Text data.                                                             |
-| Nov 18   | More on text data. NLP library eco-system.                                                   |
+| Nov 11   | Unstructured data II: Text data.                                                             |
+| Nov 18   | **Final Project Proposals Due.**                                                             |
+|          | More on text data. NLP library eco-system.                                                   |
+| Nov 25   | Geospatial data and drawing maps.                                                            |
 |          | Post HW3                                                                                     |
-| Nov 25   | **Deadline for HW3.**                                                                        |
-|          | Geospatial data and drawing maps.                                                            |
-| Dec 2    | Graphs and networks. Working with network data.                                              |
+| Dec 2    | **Deadline for HW3.**                                                                        |
+|          | Graphs and networks. Working with network data.                                              |
 | Dec 9    | More on working with network data and visualizations.                                        |
+| Dec 16   | Working with audio data.                                                                     |
 |          | Post HW4                                                                                     |
-| Dec 16   | **Deadline for HW4.**                                                                        |
-|          | Working with audio data.                                                                     |
-| Dec 23   | Special topics                                                                               |
+| Dec 23   | **Deadline for HW4.**                                                                        |
+|          | Special topics                                                                               |
 | Dec 30   | **Final Project Due.**                                                                       |
