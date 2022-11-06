@@ -75,8 +75,8 @@ If you miss any 2 of the homeworks, or if your total from homeworks is less than
 | Homework 1                 | Oct 14   |
 | Homework 2                 | Nov 4    |
 | **Final Project Proposal** | Nov 18   |
-| Homework 3                 | Nov 25   |
-| Homework 4                 | Dec 16   |
+| Homework 3                 | Dec 2    |
+| Homework 4                 | Dec 23   |
 | **Final Project**          | Dec 30   |
 
 There is no make-up for the homeworks. If you miss any of the homework deadline because of an emergency, do contact me to make an arrangement as soon as you can.
