@@ -89,7 +89,7 @@ I am going to post the homework assignments on the [course github page](https://
 
 ## Final Project
 
-The final project is worth 40 points and will be evaluated on your final project notebook. You may work with a team, but no larger than 3 students. You must open a separate repository with your team and submit the link via e-mail with the subject ``MATH381E Final Project Link'' by November 11th. In that proposal git repository, put a jupyter notebook with
+The final project is worth 40 points and will be evaluated on your final project notebook. You may work with a team, but no larger than 3 students. You must open a separate repository with your team and submit the link via e-mail with the subject ``MATH381E Final Project Link'' by November 18th. In that proposal git repository, put a jupyter notebook with
 
 * The title of the project
 * The list of team members (names and student numbers)
