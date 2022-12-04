@@ -124,11 +124,10 @@ The following is a tentative schedule of topics I am going to cover. I may go fa
 | Nov 11   | Unstructured data II: Text data.                                                             |
 | Nov 18   | **Final Project Proposals Due.**                                                             |
 |          | More on text data. NLP library eco-system.                                                   |
-| Nov 25   | Geospatial data and drawing maps.                                                            |
+| Dec 2    | Geospatial data and drawing maps.                                                            |
 |          | Post HW3                                                                                     |
-| Dec 2    | **Deadline for HW3.**                                                                        |
+| Dec 9    | **Deadline for HW3.**                                                                        |
 |          | Graphs and networks. Working with network data.                                              |
-| Dec 9    | More on working with network data and visualizations.                                        |
 | Dec 16   | Working with audio data.                                                                     |
 |          | Post HW4                                                                                     |
 | Dec 23   | **Deadline for HW4.**                                                                        |
